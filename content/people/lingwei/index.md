@@ -1,9 +1,9 @@
 ---
 title: Lingwei Zhang Mphil Student [2021-]
-subtitle: Two legs dynamic walking control framework like lizards for quadruped robots.
+#subtitle: Two legs dynamic walking control framework like lizards for quadruped robots.
 
 # Summary for listings and search engines
-summary: My main research attempts to use optimal control and reinforcement learning to give bipedal and quadrupedal robots greater agility, such as parkour, running and jumping.
+summary: My name is Lingwei Zhang and I am 24 years old. I lives in the Fanling in the northeastern part of Hong Kong and is unmarried. I'm serving in CUHK. I work overtime until 10pm every day to get home. I don't smoke, and the wine is just a taste. Go to bed at 11 p.m. and get 8 hours of sleep every day. Before going to bed, I must drink a glass of warm water, then do 20 minutes of calisthenics, go to bed, and fall asleep immediately. As soon as the sun rises, no fatigue and stress could be left until the next day. Doctors say I'm healthy
 # Link this post with a project
 projects: []
 
@@ -22,7 +22,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**linzhu**](https://www.zhihu.com/people/yuexiaozhu)'
+  caption: 'Image credit: [**lingwei**](https://www.zhihu.com/people/yuexiaozhu)'
   focal_point: ''
   placement: 2
   preview_only: false
@@ -40,13 +40,7 @@ tags:
 categories:
 
 
-links:
-  - icon: zhihu
-    icon_pack: fab
-    name: Follow
-    url: https://www.zhihu.com/people/yuexiaozhu
 
-url_video: 'https://youtu.be/9z2WHRUhB2k'
 
 ---
 
