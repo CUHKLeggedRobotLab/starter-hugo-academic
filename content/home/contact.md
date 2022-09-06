@@ -9,20 +9,21 @@ headless: true
 weight: 130
 
 title: Join Us
-subtitle:
+subtitle: If you have interesting in legged robot, you can contact us (FYP, RA, MSC or Future PhD).
+
 
 content:
   # Automatically link email and phone or display as text?
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+#  form:
+#    provider: netlify
+#    formspree:
+#      id:
+#    netlify:
+#      # Enable CAPTCHA challenge to reduce spam?
+#      captcha: false
 
   # Contact details (edit or remove options as required)
   email: lzyue@mae.cuhk.edu.hk
