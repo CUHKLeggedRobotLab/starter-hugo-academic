@@ -1,10 +1,9 @@
 ---
-title: Our team focus on research quadruped walking with two pint feet, recently.
+title: Hongbo Zhang PhD Student [2022-]
 subtitle: Two legs dynamic walking control framework like lizards for quadruped robots.
 
 # Summary for listings and search engines
-summary: We divide this method into three step. 1, stand up with our jumping algorithm, 2, jumping with SLIP model 3, HZD or MPC+WBC walking.
-
+summary: An interesting guy who has passion on robots, reinforcement learning and tomatoes.
 # Link this post with a project
 projects: []
 
@@ -30,23 +29,24 @@ image:
 
 authors:
   - admin
-  - linzhu yue
-  - zhitao Song
+
 
 tags:
   - Optimal control
+  - Reinforcement Learning
   - Quadruped Robot
+  - Bipedal Robot
 
 categories:
 
 
 links:
-  - icon: zhihu
+  - icon: github
     icon_pack: fab
-    name: Follow
-    url: https://www.zhihu.com/people/yuexiaozhu
+    name: Github
+    url: https://github.com/LifelongYuan
 
-url_video: 'https://youtu.be/9z2WHRUhB2k'
+#url_video: 'https://youtu.be/9z2WHRUhB2k'
 
 ---
 

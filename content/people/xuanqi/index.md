@@ -1,10 +1,9 @@
 ---
-title: Our team focus on research quadruped walking with two pint feet, recently.
+title: Xuanqi Zeng PhD Student [2023-]
 subtitle: Two legs dynamic walking control framework like lizards for quadruped robots.
 
 # Summary for listings and search engines
-summary: We divide this method into three step. 1, stand up with our jumping algorithm, 2, jumping with SLIP model 3, HZD or MPC+WBC walking.
-
+summary: My main research attempts to use optimal control and reinforcement learning to give bipedal and quadrupedal robots greater agility, such as parkour, running and jumping.
 # Link this post with a project
 projects: []
 
@@ -30,12 +29,13 @@ image:
 
 authors:
   - admin
-  - linzhu yue
-  - zhitao Song
+
 
 tags:
   - Optimal control
+  - Reinforcement Learning
   - Quadruped Robot
+  - Bipedal Robot
 
 categories:
 

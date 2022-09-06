@@ -67,4 +67,4 @@ email: ''
 highlight_name: true
 ---
 
-The CUHK-Legged-Robot Lab focuses on bio-inspired legged robots and aims at both designing and controlling of legged robots. Inspirations from control and intelligence of human and animal world are taken to find better solutions. Our goal is to build legged robot systems with efficient mobility, high autonomy, and reliable human-robot interaction abilities.
+The CUHK-Legged-Robot Lab focuses on bio-inspired legged robots and aims at both designing and controlling of legged robots from Prof. Liu team. Inspirations from control and intelligence of human and animal world are taken to find better solutions. Our goal is to build legged robot systems with efficient mobility, high autonomy, and reliable human-robot interaction abilities.
