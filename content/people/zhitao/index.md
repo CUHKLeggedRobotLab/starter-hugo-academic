@@ -44,8 +44,7 @@ links:
 - icon: googlescholar
   icon_pack: fab
   name: Publish
-  url: https://scholar.google.com/citations?user=7mJEEhkAAAAJ&hl=zh-CN
-
+  url: https://scholar.google.com/citations?hl=zh-CN&pli=1&user=kmGkycYAAAAJ
 #url_video: 'https://youtu.be/9z2WHRUhB2k'
 
 ---

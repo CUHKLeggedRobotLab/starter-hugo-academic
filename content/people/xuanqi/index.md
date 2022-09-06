@@ -3,7 +3,7 @@ title: Xuanqi Zeng PhD Student [2023-]
 subtitle: Two legs dynamic walking control framework like lizards for quadruped robots.
 
 # Summary for listings and search engines
-summary: My main research attempts to use optimal control and reinforcement learning to give bipedal and quadrupedal robots greater agility, such as parkour, running and jumping.
+summary: My interested research area include mechanical design, modeling and control of quadruped robots. I love jogging, watching movies and playing video games in my spare time.
 # Link this post with a project
 projects: []
 
