@@ -8,7 +8,7 @@ authors:
   - Yang Zhou
   - Peng Li
   - Zefeng Ye
-  - admin
+  - Linzhu Yue
   - Linhai Gui
   - Jiang Xin
   - Xiang Li
@@ -19,7 +19,7 @@ author_notes:
   - ''
   - ''
   - ''
-  - 'Hardware and partial control framework(RA Work)'
+  - 'Hardware and partial control framework (RA Work)'
 
 
 date: '2022-06-21T00:00:00Z'
