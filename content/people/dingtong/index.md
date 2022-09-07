@@ -11,7 +11,7 @@ projects: []
 date: '2022-08-13T00:00:00Z'
 
 # Date updated
-lastmod: '2022-12-13T00:00:00Z'
+lastmod: '2022-09-07T14:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -40,13 +40,9 @@ tags:
 categories:
 
 
-links:
-  - icon: zhihu
-    icon_pack: fab
-    name: Follow
-    url: https://www.zhihu.com/people/yuexiaozhu
 
-url_video: 'https://youtu.be/9z2WHRUhB2k'
+
+#url_video: 'https://youtu.be/9z2WHRUhB2k'
 
 ---
 
