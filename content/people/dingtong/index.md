@@ -1,9 +1,9 @@
 ---
 title: Dingtong Xiao Research Assistant [2022-]
-subtitle: Two legs dynamic walking control framework like lizards for quadruped robots.
+subtitle: Manipulator control and planning
 
 # Summary for listings and search engines
-summary: My main research attempts to use optimal control and reinforcement learning to give bipedal and quadrupedal robots greater agility, such as parkour, running and jumping.
+summary: As the only girl in the CUHK Legged Robot Lab at present, I am working on looking good and control and planning modules on the robot manipulator.
 # Link this post with a project
 projects: []
 

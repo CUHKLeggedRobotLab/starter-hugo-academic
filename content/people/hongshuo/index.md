@@ -1,9 +1,9 @@
 ---
 title: Hongshuo Wei Research Assistant [2021-]
-subtitle: Two legs dynamic walking control framework like lizards for quadruped robots.
+subtitle: Embeded Engineering
 
 # Summary for listings and search engines
-summary: My main research attempts to use optimal control and reinforcement learning to give bipedal and quadrupedal robots greater agility, such as parkour, running and jumping.
+summary: My name is Hongshuo WEI, working as an engineer in Hong Kong Centre for Logistics Robotics. My current work includes PCB design, software development for quadruped robots. Apart from work, the Rubik's cube is my favourite hobby. Always remember, nothing is true, everything is permitted.
 # Link this post with a project
 projects: []
 
