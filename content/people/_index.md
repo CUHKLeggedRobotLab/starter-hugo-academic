@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: People
 cms_exclude: true
 
 # View.
