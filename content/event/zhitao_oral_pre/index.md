@@ -1,6 +1,5 @@
 ---
-title: VBL Representation-Free Model Predictive Control
-
+title: An energy-efficiency design optimization framework for legged robots
 event: Conference
 #event_url: https://example.org
 
@@ -12,17 +11,16 @@ address:
   postcode: '00852'
   country: China
 
-summary: Regular paper sharing sessions are held every Sunday with whiteboard push formulas, this time reported by Ling Wei
-abstract: 'Using VBL to solve Euler Gimbal lock problem by Dr. Ding'
-
+summary: Regular paper sharing sessions are held every Sunday with whiteboard write the formulas. This time reported by Zhitao, which give us detalis for his research.
+abstract: 'An energy-efficiency design optimization framework for legged robots'
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-09-10T19:00:00Z'
-date_end: '2022-09-10T21:00:00Z'
+date: '2022-11-06T20:30:00Z'
+date_end: '2022-11-06T22:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2022-09-05T00:00:00Z'
+publishDate: '2022-11-02T20:30:00Z'
 
 authors: []
 tags: []
@@ -56,6 +54,3 @@ url_video: ''
 projects:
   - example
 ---
-
-
-
