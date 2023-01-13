@@ -39,7 +39,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lzyue@mae.cuhk.edu.hk'
+    link: 'mailto:cuhksiriusteamlegged@gmail.com'
   - icon: github
     icon_pack: fab
     link: https://github.com/CUHKLeggedRobotLab
@@ -48,10 +48,10 @@ social:
     link: https://space.bilibili.com/349005938
   - icon: youtube
     icon_pack: fab
-    link: https://www.youtube.com/channel/UCCInBxO2CE1GrlkDKepGNEA
-#  - icon: linkedin
-#    icon_pack: fab
-#    link: https://www.linkedin.com/in/regen-yue-47b78518b/
+    link: https://www.youtube.com/@sirius_leggedcuhk_robot
+  - icon: twitter
+    icon_pack: fab
+    link: https://www.twitter.com/CuhkLRL
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,

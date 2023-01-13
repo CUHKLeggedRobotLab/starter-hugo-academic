@@ -9,7 +9,7 @@ headless: true
 weight: 130
 
 title: Join Us
-subtitle: If you have interesting in legged robot, you can contact us (FYP, RA, MSC or Future PhD).
+subtitle: If you have interesting in legged robot, you can contact us (FYP, RA, MSC or Future PhD Student).
 
 
 content:
@@ -26,7 +26,7 @@ content:
 #      captcha: false
 
   # Contact details (edit or remove options as required)
-  email: lzyue@mae.cuhk.edu.hk
+  email: cuhksiriusteamlegged@gmail.com
   address:
     street: Sha tin
     city: Hong Kong
