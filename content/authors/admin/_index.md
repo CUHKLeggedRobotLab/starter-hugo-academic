@@ -24,6 +24,7 @@ interests:
   - Multidisciplinary optimization 
   - Wheeled-legged robot
   - SLAM in Robotics
+  - Humanoid Robot
 
 # Education to show in About widget
 #Education:
