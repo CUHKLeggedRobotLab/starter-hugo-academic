@@ -1,17 +1,17 @@
 ---
-title: Dingtong Xiao Research Assistant [2022-]
-subtitle: Manipulator control and planning
+title: Weipeng Xia Research Assistant [2023-]
+subtitle: Legged robot control and planning
 
 # Summary for listings and search engines
-summary: As the only girl in the CUHK Legged Robot Lab at present, I am working on looking good and control and planning modules on the robot manipulator.
+summary: I am Weipeng Xia, Research Assistant at CUHK Legged Robot Lab. My research interests includes legged locomotion and optimal control, and still exploring new methods to make legged robot more agile.
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2022-08-13T00:00:00Z'
+date: '2023-08-15T00:00:00Z'
 
 # Date updated
-lastmod: '2022-09-07T14:00:00Z'
+lastmod: '2023-08-016T14:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -43,10 +43,7 @@ categories:
 
 
 #url_video: 'https://youtu.be/9z2WHRUhB2k'
-
 ---
-
 ## Overview
 
 1. Will be releasing soon.
-

@@ -1,5 +1,5 @@
 ---
-title: Lingwei Zhang Mphil Student [2021-]
+title: Lingwei Zhang PhD Student [2024-]
 #subtitle: Two legs dynamic walking control framework like lizards for quadruped robots.
 
 # Summary for listings and search engines
@@ -8,10 +8,10 @@ summary: My name is Lingwei Zhang and I am 24 years old. I lives in the Fanling 
 projects: []
 
 # Date published
-date: '2022-08-13T00:00:00Z'
+date: '2023-08-15T00:00:00Z'
 
 # Date updated
-lastmod: '2022-09-06T05:00:00Z'
+lastmod: '2023-08-15T05:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -38,13 +38,7 @@ tags:
   - Bipedal Robot
 
 categories:
-
-
-
-
 ---
-
 ## Overview
 
 1. Will be releasing soon.
-

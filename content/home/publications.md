@@ -35,9 +35,6 @@ design:
   view: List
   columns: '1'
 ---
-
 {{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
+[Filtering](./publication/)
 {{% /callout %}}
-
-
