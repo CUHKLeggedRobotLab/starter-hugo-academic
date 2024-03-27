@@ -9,6 +9,10 @@
 ## 4 Run hugo and git push the root folder to github
 ## 5 Go to public folder to git push the webcode to github.
 
+## insert filter in publication 
+# {{% callout note %}}
+# [Filtering](./publication/)
+# {{% /callout %}}
 if you meet this bugs: Error: from config: failed to resolve output format "headers" from site config
 You can do 
 

@@ -1,18 +1,18 @@
 ---
-title: CUHK Robotics Open Day
-subtitle: Welcome Dr. Zhongyu Li From UCB to our lab communicate and learn
+title: CUHK LRL Group Hiking Day
+subtitle: Welcome a future PhD enter in the camera  accidentally.
 
 # Summary for listings and search engines
-summary: We showcase our sirius robot with a robot arm at this day.
+summary: We go to hiking in Shenzhen Wutong Mountain.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2023-07-26T00:00:00Z'
+date: '2024-03-25T00:00:00Z'
 
 # Date updated
-lastmod: '2023-07-27T00:00:00Z'
+lastmod: '2024-03-25T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -33,15 +33,17 @@ authors:
   - Linzhu yue
   - Zhitao Song
   - Hongbo Zhang
-  - Dingtong Xiao
   - Lingwei Zhang
   - Xuanqi Zeng
-  - Zhongyu Li
+  - Hongya Zhao
+  - Shengzhi Wang
+  - Weipeng Xia
+
 
 tags:
-  - CUHK Robotics Open Day
-  - Quadruped Robot
-  - Robot Arm
+  - CUHK LRL
+  - Lab Party
+  - Lab holidays
 
 categories:
 

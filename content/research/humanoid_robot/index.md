@@ -3,9 +3,8 @@ title: Humanoid robot design, control and trajectory planning
 summary: A research topic focus on using optimization approaches to give humanoid robot walking fast and stable. Will be realease soon.
 tags:
   - Optimal Control
-  - Quadruped Robot
   - Reinforcement Learning
-  - Bipedal Robot
+  - Humanoid Robot
 
 date: '2024-02-02T00:00:00Z'
 
@@ -34,4 +33,4 @@ url_video: ''
 #slides: example
 ---
 
-The aim of this research theme is to try to empower quadrupedal robot two point feet walking using existing gradient-based, reinforcement learning, meta-heuristic-based algorithms, etc. Currently, ongoing!
+A research topic focus on using optimization approaches to give humanoid robot walking fast and stable. Will be realease soon.

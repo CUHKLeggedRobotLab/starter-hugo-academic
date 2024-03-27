@@ -27,9 +27,9 @@ interests:
   - Humanoid Robot
 
 # Education to show in About widget
-#Education:
+# Academic Networking:
 #  courses:
-#    - course: PhD in Mechanical and Automation Engineering (MAE)
+# - course: PhD in Mechanical and Automation Engineering (MAE)
 #      institution: CUHK
 #      year: 2020-2023
 

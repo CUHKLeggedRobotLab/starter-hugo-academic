@@ -1,18 +1,17 @@
 ---
-title: CUHK Robotics Open Day
-subtitle: Welcome Dr. Zhongyu Li From UCB to our lab communicate and learn
+title: Hongya Zhao Mech Enginner [2024-]
+subtitle: Mech Design for Quadrupedal and Humanoid.
 
 # Summary for listings and search engines
-summary: We showcase our sirius robot with a robot arm at this day.
-
+summary: An interesting guy who has passion on robots mech design.
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2023-07-26T00:00:00Z'
+date: '2024-01-13T00:00:00Z'
 
 # Date updated
-lastmod: '2023-07-27T00:00:00Z'
+lastmod: '2024-01-06T05:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -30,29 +29,27 @@ image:
 
 authors:
   - admin
-  - Linzhu yue
-  - Zhitao Song
-  - Hongbo Zhang
-  - Dingtong Xiao
-  - Lingwei Zhang
-  - Xuanqi Zeng
-  - Zhongyu Li
+
 
 tags:
-  - CUHK Robotics Open Day
   - Quadruped Robot
-  - Robot Arm
+  - Bipedal Robot
+  - Mech Design
 
 categories:
 
 
 links:
+  #- icon: github
+  #  icon_pack: fab
+  #  name: Github
+  #  url: https://github.com/LifelongYuan
 
-url_video: ''
+#url_video: 'https://youtu.be/9z2WHRUhB2k'
 
 ---
 
 ## Overview
 
-1. Happy to show our robot to erveryone.
+1. Nothing Haha.
 

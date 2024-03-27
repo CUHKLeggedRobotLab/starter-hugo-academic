@@ -35,6 +35,4 @@ design:
   view: List
   columns: '1'
 ---
-{{% callout note %}}
-[Filtering](./publication/)
-{{% /callout %}}
+
