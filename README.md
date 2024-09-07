@@ -17,3 +17,5 @@ if you meet this bugs: Error: from config: failed to resolve output format "head
 You can do 
 
 `hugo mod clean` and then `hugo server`
+
+# Before you upload the public, you should run `hugo` at the root folder.
