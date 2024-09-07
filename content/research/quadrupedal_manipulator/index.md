@@ -1,6 +1,6 @@
 ---
-title: Humanoid robot design, control and trajectory planning
-summary: A research topic focus on using optimization approaches to give humanoid robot walking fast and stable. Will be realease on Oct 2024.
+title: Loco-Manipulator design, control and trajectory planning
+summary: A research topic focus on using optimization approaches to control Manipulator and quadrupedal robot.
 tags:
   - Optimal Control
   - Reinforcement Learning
@@ -12,7 +12,7 @@ date: '2024-02-02T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by linzhu on HK
+  caption: Photo by shengzhi on HK
   focal_point: Smart
 
 links:

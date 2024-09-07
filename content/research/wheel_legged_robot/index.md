@@ -1,13 +1,12 @@
 ---
-title: Quadruped robot walking like lizard with two point feet 
-summary: A research topic focus on using optimization approaches to give quadruped robot two point feet walking ability.
+title: Wheel-legged robot design, control and trajectory planning
+summary: A research topic focus on using optimization approaches and Reinforcement learning  to give Wheel-legged robot walking fast and stable. Will be realease soon on Oct 2024.
 tags:
   - Optimal Control
-  - Quadruped Robot
   - Reinforcement Learning
-  - Bipedal Robot
+  - Wheel-legged Robot
 
-date: '2022-08-02T00:00:00Z'
+date: '2024-02-02T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -17,10 +16,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: zhihu
+  - icon: Youtube
     icon_pack: fab
     name: Follow
-    url: https://www.zhihu.com/people/yuexiaozhu
+    url: https://www.youtube.com/@sirius_leggedcuhk_robot
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -34,4 +33,4 @@ url_video: ''
 #slides: example
 ---
 
-The aim of this research theme is to try to empower quadrupedal robot two point feet walking using existing gradient-based, reinforcement learning, meta-heuristic-based algorithms, etc. Currently, ongoing!
+A research topic focus on using optimization approaches to give humanoid robot walking fast and stable. Will be realease soon.
