@@ -1,6 +1,6 @@
 ---
 title: Linzhu Yue PhD Condidate [2020-]
-subtitle: Two legs dynamic walking control framework like lizards for quadruped robots.
+subtitle: Legged Robot with Optimal Control And Reinforcement Learning
 
 # Summary for listings and search engines
 summary: My main research attempts to use optimal control and reinforcement learning to give bipedal and quadrupedal robots greater agility, such as parkour, running and jumping.
@@ -64,5 +64,5 @@ links:
 
 ## Overview
 
-1. Will be releasing soon.
+1. Nonthing To Do.
 

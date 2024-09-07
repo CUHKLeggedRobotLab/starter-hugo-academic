@@ -49,14 +49,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-#url_pdf: 'https://arxiv.org/abs/2207.12002'
+url_pdf: 'https://arxiv.org/abs/2407.00658'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-#url_video: 'https://www.youtube.com/watch?v=AJ37eS8sjS8&t=2s'
+url_video: 'https://www.youtube.com/watch?v=BH0W5F8D1XI&t=330s'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
