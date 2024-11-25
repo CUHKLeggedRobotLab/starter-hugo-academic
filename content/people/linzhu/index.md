@@ -1,5 +1,5 @@
 ---
-title: Linzhu Yue PhD Condidate [2020-]
+title: Linzhu Yue PhD [2020-2024]
 subtitle: Legged Robot with Optimal Control And Reinforcement Learning
 
 # Summary for listings and search engines

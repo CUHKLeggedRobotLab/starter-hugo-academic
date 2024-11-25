@@ -1,6 +1,6 @@
 ---
 # Display name
-title: CUHK LeggedRobot Lab
+title: The Chinese University of Hong Kong(CUHK) LeggedRobot Lab
 
 # Is this the primary user of the site?
 superuser: true
@@ -9,10 +9,12 @@ superuser: true
 role: A LeggedRobot Group from Prof. Yun-Hui Liu Lab
 
 # Organizations/Affiliations to show in About widget
+# organizations:
+#   - name: The Chinese University of Hong Kong (CUHK)
+#     url: https://www.cuhk.edu.hk/
 organizations:
-  - name: The Chinese University of Hong Kong (CUHK)
-    url: https://www.cuhk.edu.hk/
-
+  - name: Yunhui Liu (CUHK)
+    url: https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/
 # Short bio (displayed in user profile at end of posts)
 bio: Our research interests include quadruped robot, bipedal robot, Reinforcement Learning, Legged-Wheel Robot , Multi-sensor fusion and Multidisciplinary optimization.
 
@@ -51,6 +53,9 @@ social:
   - icon: youtube
     icon_pack: fab
     link: https://www.youtube.com/@sirius_leggedcuhk_robot
+  # - icon: web
+  #   icon_pack: fab
+  #   link: https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/
   - icon: twitter
     icon_pack: fab
     link: https://www.twitter.com/CuhkLRL
@@ -68,4 +73,4 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-The CUHK-Legged-Robot Lab focuses on bio-inspired legged robots and aims at both designing and controlling of legged robots from Prof. Liu team. Inspirations from control and intelligence of human and animal world are taken to find better solutions. Our goal is to build legged robot systems with efficient mobility, high autonomy, and reliable human-robot interaction abilities.
+The CUHK-Legged-Robot Lab focuses on bio-inspired legged robots and aims at both designing and controlling of legged robots from Prof. Yunhui Liu team. Inspirations from control and intelligence of human and animal world are taken to find better solutions. Our goal is to build legged robot systems with efficient mobility, high autonomy, and reliable human-robot interaction abilities.
