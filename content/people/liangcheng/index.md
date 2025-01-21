@@ -1,17 +1,17 @@
 ---
-title: Hongbo Zhang PhD Student [2022-]
-subtitle: Reinforcement learning.
+title: Liangcheng Sui Research Assistant [2024-]
+subtitle: Navigation and planning in uncertainties.
 
 # Summary for listings and search engines
-summary: An interesting guy who has passion on robots, reinforcement learning and tomatoes.
+summary: A self-motivated robotics engineer with little genius but much curiosity and patience. My research interests focus on navigation and planning in uncertainties, which helps robots to recognize the world. My hobbies include traveling, skiing, museum and music, which helps me to recognize myself.
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2022-08-13T00:00:00Z'
+date: '2024-12-13T00:00:00Z'
 
 # Date updated
-lastmod: '2022-09-06T05:00:00Z'
+lastmod: '2024-12-06T05:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
