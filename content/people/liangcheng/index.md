@@ -3,7 +3,7 @@ title: Liangcheng Sui Research Assistant [2024-]
 subtitle: Navigation and planning in uncertainties.
 
 # Summary for listings and search engines
-summary: A self-motivated robotics engineer with little genius but much curiosity and patience. My research interests focus on navigation and planning in uncertainties, which helps robots to recognize the world. My hobbies include traveling, skiing, museum and music, which helps me to recognize myself.
+summary: A self-motivated robotics engineer with little genius but much curiosity and patience. My research interests focus on navigation and planning in uncertainties, which help robots to recognize the world. My hobbies include traveling, skiing, museum and music, which helps me to recognize myself.
 # Link this post with a project
 projects: []
 
