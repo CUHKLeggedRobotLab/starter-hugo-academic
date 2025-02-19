@@ -1,5 +1,5 @@
 ---
-title: Shengzhi Wang PhD Student [2023-]
+title: Shengzhi Wang (Collaboration PhD Student From Prof. Samuel's Group) [2023-]
 subtitle: Dynamic walking control framework for quadruped robots.
 
 # Summary for listings and search engines
