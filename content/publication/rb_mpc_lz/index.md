@@ -34,12 +34,12 @@ publishDate: '2024-12-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Submit to *TRO 2024*
-publication_short: Under reviewer In *TRO*
+publication: ReSubmit to *IJRR 2025*
+publication_short: Under reviewer In *IJRR*
 
 abstract: Achieving robust resistance to bounded external disturbances in high-dimensional, complex dynamic systems remains a significant challenge, particularly for legged robots. While Model Predictive Control (MPC) has been widely studied for disturbance rejection, few approaches provide robust stability guarantees for legged locomotion. This paper presents a computationally efficient Tube-based Robust Model Predictive Control (TRMPC) framework for legged robots under bounded disturbances. Unlike traditional methods that rely on polytopic sets, the proposed TRMPC employs minimal invariant ellipsoids (MIE) to design a feedback controller that compensates for state errors induced by disturbances. Robust stability conditions are derived by formulating the MIE as a one-dimensional convex Semi-Definite Programming (SDP) problem subject to Linear Matrix Inequality (LMI) constraints, solved offline. To avoid the computationally intensive Pontryagin Difference and Minkowski Sum, an approximate approach is introduced, enabling efficient Quadratic Programming (QP) solutions for ground reaction forces (GRFs). The framework uses a reduced-order dynamic model and a variation-based linearization method to construct the MPC formulation. Experimental results on a quadrupedal robot demonstrate the effectiveness of the proposed TRMPC in rejecting various external disturbances, including large impulse forces, continuous forces, and rough terrains. Additionally, simulations on a bipedal robot validate the robustness of the proposed approach under different terrain conditions and external disturbances.
 # Summary. An optional shortened abstract.
-summary: Bobust MPC for biepdal and quadrupedal robot
+summary: Robust MPC for biepdal and quadrupedal robot
 
 tags: []
 

@@ -1,9 +1,9 @@
 ---
-title: Tianlin Zhang research assistant [2024-]
+title: Tianlin Zhang PHD Student [2025-]
 subtitle: Optimal Control On legged robotics
 
 # Summary for listings and search engines
-summary: I am Tianlin Zhang, a research assistant at CUHK legged robot lab. My research interests include optimal control, visual servoing, and whole-body control. I have a lot of work experience with robots, including legged robots, UAVs, and mobile manipulators. I hope to make impactful work in the future.
+summary: I am Tianlin Zhang, a PhD student at CUHK legged robot lab. My research interests include optimal control, visual servoing, and whole-body control. I have a lot of work experience with robots, including legged robots, UAVs, and mobile manipulators. I hope to make impactful work in the future.
 # Link this post with a project
 projects: []
 
